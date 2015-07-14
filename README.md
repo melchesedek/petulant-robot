@@ -1,4 +1,4 @@
 petulant-robot
 ==============
 
-Tafari
+This repo is hosts an angular test project.  
